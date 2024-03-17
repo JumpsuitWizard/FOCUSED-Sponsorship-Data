@@ -1,0 +1,12 @@
+2023,,2022,,2021 SKIPPED,,2020,,2019,,2018,,2017,,2016,,2015,,2014,
+Name,Level,Name,Level,,,Name,Level,Name,Level,Name,Level,Name,Level,Name,Level,Name,Level,Name,Level
+Platinum,"$12,500",Platinum,"$12,000",,,Platinum,"$12,000",Diamond,"$20,000",Diamond,"$20,000",Platinum,"$10,000",Diamond,"$20,000",Diamond,"$19,000",Diamond,"$19,000"
+Gold,"$6,000",Gold,"$6,000",,,Gold,"$6,000",Platinum,"$12,000",Platinum,"$12,000",Gold,"$5,000",Platinum,"$12,000",Gold,"$5,000",Platinum,"$10,000"
+Silver,"$3,500",Silver,"$3,500",,,Silver,"$3,000",Gold,"$6,000",Gold,"$6,000",Silver,"$3,000",Gold,"$6,000",Silver,"$3,000",Gold,"$5,000"
+Registration,"$5,000",Registration,"$5,000",,,Network,"$5,000",Silver,"$3,000",Silver,"$3,000",Reception,"$2,500",Silver,"$3,000",Reception,"$2,500",Silver,"$3,000"
+Reception,"$4,000",Reception,"$3,500",,,Reception,"$3,500",Reception,"$3,500",Registration,"$5,000",Special Event,"$1,000",Reception,"$3,500",Special Event,"$1,000",Reception,"$2,500"
+Special Event,"$2,000",Special Event,"$2,000",,,Speaker Track,"$1,500",Special Event,"$2,000",Reception,"$3,500",Speaker Track,"$1,500",Special Event,"$2,000",Speaker Track,"$1,500",Special Event,"$1,000"
+Speaker Track,"$2,000",Speaker Track,"$1,000",,,Media,"$1,500",Media,"$1,500",Special Event,"$2,000",Travel,"$1,000",Speaker Track,$800,Media,"$1,500",Speaker Track,"$1,500"
+Media,"$2,000",Raffle,"$1,000",,,None,$0,None,$0,Speaker Track,"$1,500",Media,"$1,500",Media,"$1,500",None,$0,Media,"$1,500"
+None,$0,Media,$500,,,,,,,Media,"$1,500",None,$0,None,$0,,,None,$0
+,,None,$0,,,,,,,None,$0,,,,,,,,
